@@ -56,6 +56,7 @@ Code:
 Output: 
 	Creates a new empty file named newfile.txt.
 
+
 ```
 ### COMMAND 6: cp - Copy Files and Directories
 ```
