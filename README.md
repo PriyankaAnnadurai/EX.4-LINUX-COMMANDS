@@ -1,6 +1,4 @@
 # OS EX.4-LINUX-COMMANDS
-
-# OS EX.4-LINUX-COMMANDS
 ## Name : PRIYANKA.A
 ## Register Number : 212222230113
 ## AIM:
